@@ -1,6 +1,7 @@
 let store = {drivers: []};
 
 let userId = 0;
+
 let passengerId = 0;
 
 class Driver {
