@@ -15,7 +15,7 @@ class Driver {
   }
   
   trips() {
-    
+    return store.trips
   }
   
   passengers() {
