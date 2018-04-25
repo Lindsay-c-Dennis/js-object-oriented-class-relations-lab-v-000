@@ -1,4 +1,4 @@
-let store = {drivers: [], 
+let store = {drivers: []};
 
 let userId = 0;
 
