@@ -1,6 +1,6 @@
 class Driver {
   constructor(name) {
-    this.id = ++id
+    this.id = ++userId;
     this.name = name;
   }
 }
