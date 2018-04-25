@@ -16,7 +16,7 @@ class Driver {
     
   }
   
-  drivers() {
+  passengers() {
     
   }
 }
@@ -29,5 +29,11 @@ class Passenger {
     store.passengers.push(this);
   }
   
+  trips() {
+    
+  }
   
+  drivers() {
+    
+  }
 }
