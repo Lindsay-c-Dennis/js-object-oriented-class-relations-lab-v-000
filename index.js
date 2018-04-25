@@ -21,7 +21,9 @@ class Driver {
   }
   
   passengers() {
-    return store.passengers.filter(this.trips());
+    return store.passengers.filter(passenger => {
+      
+    }
   }
 }
 
