@@ -11,6 +11,14 @@ class Driver {
     
     store.drivers.push(this);
   }
+  
+  trips() {
+    
+  }
+  
+  drivers() {
+    
+  }
 }
 
 class Passenger {
@@ -20,4 +28,6 @@ class Passenger {
     
     store.passengers.push(this);
   }
+  
+  
 }
